@@ -1,0 +1,17 @@
+body{
+  background-color: #eee;
+  color: #aaa;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.summ{
+  width: 700px;
+  text-color: #57ff5c;
+}
+.summ a{
+    background-color: #f00;
+    color:#fff;
+    text-decoration: none;
+}
+
+
