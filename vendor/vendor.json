@@ -2,5 +2,9 @@
 	"comment": "",
 	"ignore": "test",
 	"package": [],
-	"rootPath": "sugiprofile"
+	"rootPath": "sugiprofile",
+	"heroku": {
+		"install": [ "./.." ],
+		"goVersion": "go1.10"
+	}
 }
