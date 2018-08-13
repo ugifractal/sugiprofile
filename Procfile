@@ -1,1 +1,1 @@
-web: sugiprofle
+web: sugiprofile
